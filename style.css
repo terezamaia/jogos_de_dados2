@@ -1,0 +1,13 @@
+body{
+    font-family: "Righteous", cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.res{
+    display: flex;
+    flex-direction: row;
+  justify-content: center;
+
+
+}
